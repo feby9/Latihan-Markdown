@@ -13,7 +13,7 @@ Penulis: Auzi Asfarian
 
 Untuk percobaan pertama ini, kita akan membuat sebuah program yang akan terus-menerus mengeluarkan pola bunga (_lihat_ gambar). Bunganya tidak terlalu rumit, hanya terdiri atas lima buah lingkaran yang ditumpuk sedemikian rupa. Untuk sedikit memperindah hasil akhir program, akan kita buat supaya ukuran dan warna bunga yang dihasilkan berbeda-beda.
 
-![](img/bunga.png )
+![](https://asfarian.files.wordpress.com/2011/05/bunga.png)
 
 Inilah langkah-langkah untuk merealisasikan program yang telah kita bayangkan sebelumnya :
 
@@ -75,15 +75,15 @@ void draw()
 
 Setelah itu, untuk menjalankan program yang telah dibuat, Anda cukup menekan tombol panah yang ada di pojok kiri atas. Untuk menghentikan program, tekan tombol kotak yang ada di sebelah tombol panah. Mirip lah dengan menjalankan lagu di Windows Media Player :smiley:.
 
-![processing](\img\processing.png)
+![processing](https://asfarian.files.wordpress.com/2011/05/processing.png)
 
 Hasilnya?
 
-![pattern0](\img\pattern0.png)
+![pattern0](https://asfarian.files.wordpress.com/2011/05/pattern0.png)
 
 Setelah satu detik:
 
-![pattern](\img\pattern.png)
+![pattern](https://asfarian.files.wordpress.com/2011/05/pattern.png)
 
 
 
@@ -116,7 +116,7 @@ final int MIN_BLUE = 0;       //0 - 255
 final int MAX_BLUE = 0;       //0 - 255
 ```
 
-![pattern1](\img\pattern1.png)
+![pattern1](https://asfarian.files.wordpress.com/2011/05/pattern1.png)
 
 
 
